@@ -295,6 +295,7 @@ body {
     gap: 20px;
     padding: 40px 80px;
     flex-direction: row;
+    width: 100%;
 
 }
 
@@ -302,12 +303,12 @@ body {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
     cursor: pointer;
     border-color: #E3E6F3;
-    width: 650px;
-    height: 800px;
+    width: 550px;
+    height: 680px;
 }
 .big-img-lu {
-    width: 600px;
-    height: 721px;
+    width: 500px;
+    height: 621px;
 transition: 0.3s ease;
     border-radius: 10px;
 }
